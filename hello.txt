@@ -12,5 +12,5 @@ hello git! hello lfw!
 hello git! hello lfw!
 hello git! hello lfw!
 hello git! hello lfw!
-hello git! hello lfw!
-hello git! hello lfw!
+hello git! hello lfw!   master test
+hello git! hello lfw!  
